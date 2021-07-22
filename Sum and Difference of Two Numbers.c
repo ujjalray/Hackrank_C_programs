@@ -5,7 +5,7 @@
 
 int main()
 {
-	int n=0,m=0;
+	int n=0,m=0;   //here is variabe declere
     float a=0,b=0;
     
     scanf("%d %d", &n, &m);
